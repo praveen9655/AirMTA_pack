@@ -1,0 +1,37 @@
+# airMTA Package Inventory
+# Generated: 2025-10-05 20:01:13 UTC
+
+TOTAL_PACKAGES=27
+TOTAL_SIZE=7.3M
+
+Package Count: 
+Total Size: 
+
+=== Package List ===
+packages/debs/ca-certificates_20240203_all.deb - 156K
+packages/debs/certbot_2.9.0-1_all.deb - 88K
+packages/debs/dovecot-core_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 3.2M
+packages/debs/dovecot-imapd_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 187K
+packages/debs/dovecot-lmtpd_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 28K
+packages/debs/dovecot-managesieved_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 51K
+packages/debs/dovecot-pgsql_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 18K
+packages/debs/dovecot-sieve_1%3a2.3.21+dfsg1-2ubuntu6_amd64.deb - 368K
+packages/debs/fail2ban_1.0.2-3ubuntu0.1_all.deb - 400K
+packages/debs/libopendkim11_2.11.0~beta2-9build4_amd64.deb - 61K
+packages/debs/libpcre3_2%3a8.39-15build1_amd64.deb - 243K
+packages/debs/libpq5_16.10-0ubuntu0.24.04.1_amd64.deb - 141K
+packages/debs/libpq-dev_16.10-0ubuntu0.24.04.1_amd64.deb - 148K
+packages/debs/libsasl2-modules_2.1.28+dfsg1-5ubuntu3.1_amd64.deb - 69K
+packages/debs/libsasl2-modules-sql_2.1.28+dfsg1-5ubuntu3.1_amd64.deb - 19K
+packages/debs/opendkim_2.11.0~beta2-9build4_amd64.deb - 169K
+packages/debs/opendkim-tools_2.11.0~beta2-9build4_amd64.deb - 82K
+packages/debs/postfix_3.8.6-1build2_amd64.deb - 1.2M
+packages/debs/postfix-pcre_3.8.6-1build2_amd64.deb - 21K
+packages/debs/postfix-pgsql_3.8.6-1build2_amd64.deb - 21K
+packages/debs/postgresql-client_16+257build1.1_all.deb - 12K
+packages/debs/python3-certbot_2.9.0-1_all.deb - 261K
+packages/debs/python3-pyinotify_0.9.6-2ubuntu1_all.deb - 25K
+packages/debs/python3-systemd_235-1build4_amd64.deb - 42K
+packages/debs/ssl-cert_1.1.2ubuntu1_all.deb - 18K
+packages/debs/ufw_0.36.2-6_all.deb - 166K
+packages/debs/whois_5.5.22_amd64.deb - 51K
